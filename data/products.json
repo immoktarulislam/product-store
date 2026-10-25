@@ -1,0 +1,326 @@
+[
+  {
+    "id": "aria-nc70-headphones",
+    "name": "Aria NC-70 Noise-Cancelling Headphones",
+    "brand": "Aria",
+    "category": "Audio",
+    "price": 6500,
+    "oldPrice": 7900,
+    "rating": 4.7,
+    "reviews": 312,
+    "stock": 18,
+    "badge": "Best seller",
+    "image": "/products/headphones.jpg",
+    "description": "Over-ear wireless headphones with hybrid active noise cancellation, 40-hour battery life and memory-foam ear cushions built for long listening sessions.",
+    "features": [
+      "Hybrid active noise cancellation",
+      "40 hours of playback on a single charge",
+      "Bluetooth 5.3 with multipoint pairing",
+      "USB-C fast charge: 5 hours in 10 minutes",
+      "Foldable design with hard travel case"
+    ],
+    "specs": {
+      "Driver": "40mm dynamic",
+      "Battery": "40h (ANC on)",
+      "Weight": "254 g",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": "halden-heritage-watch",
+    "name": "Halden Heritage Automatic Watch",
+    "brand": "Halden",
+    "category": "Watches",
+    "price": 9800,
+    "oldPrice": 11500,
+    "rating": 4.8,
+    "reviews": 146,
+    "stock": 7,
+    "badge": "New",
+    "image": "/products/watch.jpg",
+    "description": "A classic automatic timepiece with a sapphire-coated glass, stainless steel case and a 42-hour power reserve that winds itself as you wear it.",
+    "features": [
+      "Automatic mechanical movement, no battery",
+      "42-hour power reserve",
+      "Stainless steel case with exhibition back",
+      "5 ATM water resistance",
+      "2-year international warranty"
+    ],
+    "specs": {
+      "Case size": "40 mm",
+      "Movement": "Automatic",
+      "Water resistance": "5 ATM",
+      "Warranty": "2 years"
+    }
+  },
+  {
+    "id": "velocity-runner-sneakers",
+    "name": "Velocity Runner Sneakers",
+    "brand": "Stride",
+    "category": "Footwear",
+    "price": 3900,
+    "oldPrice": 4600,
+    "rating": 4.5,
+    "reviews": 528,
+    "stock": 42,
+    "badge": "",
+    "image": "/products/sneakers.jpg",
+    "description": "Lightweight everyday running shoes with a breathable knit upper and responsive foam midsole that keeps you comfortable from the first mile to the last.",
+    "features": [
+      "Breathable engineered knit upper",
+      "Responsive EVA foam midsole",
+      "Non-slip rubber outsole",
+      "Removable cushioned insole",
+      "Machine washable"
+    ],
+    "specs": {
+      "Upper": "Knit mesh",
+      "Sole": "Rubber",
+      "Drop": "8 mm",
+      "Warranty": "6 months"
+    }
+  },
+  {
+    "id": "lumix-m50-camera",
+    "name": "Lumix M50 Mirrorless Camera",
+    "brand": "Lumix",
+    "category": "Cameras",
+    "price": 42500,
+    "oldPrice": 46000,
+    "rating": 4.6,
+    "reviews": 89,
+    "stock": 5,
+    "badge": "Top rated",
+    "image": "/products/camera.jpg",
+    "description": "A compact mirrorless camera with a 24MP APS-C sensor, 4K/60 video and eye-detect autofocus — ideal for creators who want pro results without a heavy body.",
+    "features": [
+      "24.2MP APS-C CMOS sensor",
+      "4K video at 60 fps",
+      "Eye-detect continuous autofocus",
+      "Flip screen for vlogging",
+      "Wi-Fi and Bluetooth transfer"
+    ],
+    "specs": {
+      "Sensor": "24.2 MP APS-C",
+      "Video": "4K/60fps",
+      "ISO": "100-51200",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": "solstice-polarized-sunglasses",
+    "name": "Solstice Polarized Sunglasses",
+    "brand": "Solstice",
+    "category": "Accessories",
+    "price": 1750,
+    "oldPrice": 2200,
+    "rating": 4.4,
+    "reviews": 233,
+    "stock": 60,
+    "badge": "",
+    "image": "/products/sunglasses.jpg",
+    "description": "UV400 polarized lenses in a lightweight acetate frame that cuts glare from roads and water while keeping a clean, everyday look.",
+    "features": [
+      "Polarized UV400 lenses",
+      "Lightweight acetate frame",
+      "Scratch-resistant coating",
+      "Includes microfiber pouch",
+      "Unisex fit"
+    ],
+    "specs": {
+      "Lens": "Polarized, UV400",
+      "Frame": "Acetate",
+      "Weight": "28 g",
+      "Warranty": "6 months"
+    }
+  },
+  {
+    "id": "trek-urban-backpack",
+    "name": "Urban 28L Travel Backpack",
+    "brand": "Trek",
+    "category": "Bags",
+    "price": 3200,
+    "oldPrice": 3800,
+    "rating": 4.6,
+    "reviews": 401,
+    "stock": 27,
+    "badge": "",
+    "image": "/products/backpack.jpg",
+    "description": "A 28-litre water-resistant backpack with a padded 15.6-inch laptop sleeve, quick-access pockets and a luggage strap for stress-free commutes.",
+    "features": [
+      "28L capacity, water-resistant fabric",
+      "Padded sleeve fits laptops up to 15.6\"",
+      "Hidden anti-theft back pocket",
+      "Luggage strap for rolling suitcases",
+      "Breathable back panel and straps"
+    ],
+    "specs": {
+      "Capacity": "28 L",
+      "Laptop size": "Up to 15.6\"",
+      "Material": "600D polyester",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": "nexus-ultrabook-14",
+    "name": "Nexus Ultrabook 14\"",
+    "brand": "Nexus",
+    "category": "Computers",
+    "price": 78500,
+    "oldPrice": 84000,
+    "rating": 4.7,
+    "reviews": 74,
+    "stock": 4,
+    "badge": "New",
+    "image": "/products/laptop.jpg",
+    "description": "A 14-inch ultrabook with an 8-core processor, 16GB RAM and a 512GB NVMe SSD, wrapped in a 1.2 kg aluminium body that lasts a full workday on charge.",
+    "features": [
+      "8-core CPU, 16GB LPDDR5 RAM",
+      "512GB NVMe SSD",
+      "14\" 2.8K IPS display, 100% sRGB",
+      "Up to 14 hours of battery life",
+      "Backlit keyboard and fingerprint reader"
+    ],
+    "specs": {
+      "Display": "14\" 2.8K IPS",
+      "Memory": "16 GB",
+      "Storage": "512 GB SSD",
+      "Warranty": "2 years"
+    }
+  },
+  {
+    "id": "boompods-bluetooth-speaker",
+    "name": "BoomPods Bluetooth Speaker",
+    "brand": "BoomPods",
+    "category": "Audio",
+    "price": 2900,
+    "oldPrice": 3500,
+    "rating": 4.3,
+    "reviews": 617,
+    "stock": 55,
+    "badge": "",
+    "image": "/products/speaker.jpg",
+    "description": "A rugged portable speaker with punchy 360° sound, IPX7 waterproofing and 20 hours of playtime for rooms, patios and beach days.",
+    "features": [
+      "360° stereo sound with deep bass",
+      "IPX7 waterproof and dustproof",
+      "20 hours of playtime",
+      "Pair two speakers for stereo",
+      "Built-in microphone for calls"
+    ],
+    "specs": {
+      "Output": "20 W",
+      "Battery": "20 h",
+      "Rating": "IPX7",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": "maison-noir-eau-de-parfum",
+    "name": "Noir Eau de Parfum 100ml",
+    "brand": "Maison Noir",
+    "category": "Fragrance",
+    "price": 4400,
+    "oldPrice": 5000,
+    "rating": 4.8,
+    "reviews": 128,
+    "stock": 31,
+    "badge": "",
+    "image": "/products/perfume.jpg",
+    "description": "A warm evening fragrance blending bergamot, amber and sandalwood with long-lasting sillage that stays close from morning meetings to late dinners.",
+    "features": [
+      "Top: bergamot, black pepper",
+      "Heart: amber, lavender",
+      "Base: sandalwood, vanilla",
+      "8-10 hour longevity",
+      "Cruelty-free formula"
+    ],
+    "specs": {
+      "Volume": "100 ml",
+      "Concentration": "Eau de Parfum",
+      "Longevity": "8-10 h",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": "glide-pro-wireless-mouse",
+    "name": "Glide Pro Ergonomic Wireless Mouse",
+    "brand": "Glide",
+    "category": "Computers",
+    "price": 2100,
+    "oldPrice": 2600,
+    "rating": 4.5,
+    "reviews": 342,
+    "stock": 73,
+    "badge": "",
+    "image": "/products/mouse.jpg",
+    "description": "An ergonomic wireless mouse with a silent click, adjustable DPI up to 4000 and a shape that keeps your wrist neutral through long workdays.",
+    "features": [
+      "Silent tactile clicks",
+      "Adjustable DPI up to 4000",
+      "2.4 GHz USB-C receiver + Bluetooth",
+      "Up to 12 months of battery",
+      "Windows and macOS support"
+    ],
+    "specs": {
+      "Sensor": "4000 DPI",
+      "Connection": "Bluetooth + 2.4 GHz",
+      "Battery": "12 months",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": "halo-desk-lamp",
+    "name": "Halo Minimalist Desk Lamp",
+    "brand": "Halo",
+    "category": "Home",
+    "price": 2450,
+    "oldPrice": 2950,
+    "rating": 4.6,
+    "reviews": 195,
+    "stock": 38,
+    "badge": "20% off",
+    "image": "/products/lamp.jpg",
+    "description": "A minimalist LED desk lamp with three colour temperatures, stepless dimming and a flicker-free diffuser that is easy on the eyes during late work sessions.",
+    "features": [
+      "3 colour modes: warm, natural, cool",
+      "Stepless dimming 10-100%",
+      "Flicker-free, eye-care diffuser",
+      "USB-C powered, memory function",
+      "2-hour auto-off timer"
+    ],
+    "specs": {
+      "Power": "8 W LED",
+      "Modes": "3 colour temperatures",
+      "Rated life": "30,000 h",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "id": "brew-co-ceramic-mug",
+    "name": "Everyday Ceramic Coffee Mug",
+    "brand": "Brew & Co.",
+    "category": "Kitchen",
+    "price": 650,
+    "oldPrice": 850,
+    "rating": 4.2,
+    "reviews": 876,
+    "stock": 120,
+    "badge": "",
+    "image": "/products/mug.jpg",
+    "description": "A 380ml stoneware mug with a comfortable handle and a smooth glaze that keeps coffee hot longer — dishwasher and microwave safe.",
+    "features": [
+      "380ml capacity",
+      "Stoneware ceramic body",
+      "Dishwasher and microwave safe",
+      "Chip-resistant glaze",
+      "Set of 1"
+    ],
+    "specs": {
+      "Volume": "380 ml",
+      "Material": "Stoneware",
+      "Care": "Dishwasher safe",
+      "Warranty": "6 months"
+    }
+  }
+]
